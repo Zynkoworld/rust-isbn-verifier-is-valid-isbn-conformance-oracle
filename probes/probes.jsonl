@@ -1,0 +1,16 @@
+{"input": "3-598-21508-8", "expect": true, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-21508-9", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-21507-X", "expect": true, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-21507-A", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-P1581-X", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-2X507-9", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-21508-96", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3598215088", "expect": true, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "359821507X", "expect": true, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "359821507", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "00", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-21507", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3-598-21515-X", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "134456729", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3132P34035", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
+{"input": "3598P215088", "expect": false, "raised": false, "task": "isbn-verifier", "lang": "rust"}
